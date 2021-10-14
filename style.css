@@ -29,6 +29,9 @@ main {
     border: 10px solid Orange;
     padding: 50px;
     margin: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
 
@@ -47,6 +50,10 @@ section {
     border: 10px solid Orange;
     padding: 25px;
     margin: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 70vw;
 }
 
 
