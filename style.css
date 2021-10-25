@@ -6,6 +6,7 @@ html {
 
 
 body {
+    margin: 0;
     color: #000;
     font-size: 2.5rem;
 }
@@ -15,8 +16,9 @@ body {
 header {
     background-color:   DeepSkyBlue;
     border: 10px solid Orange;
-    padding: 50px;
+    padding: 10px;
     margin: 50px;
+    font-size: 2rem;
     display: flex;
     justify-content: space-between;    /*This moves items along the main axis*/
     align-items: center;    /*This moves items along cross axis*/
